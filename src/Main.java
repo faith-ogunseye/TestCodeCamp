@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("My name is faith");
-        System.out.println("QA Queen ");
+        System.out.println("QA Queen of Africa");
     }
 
 }
